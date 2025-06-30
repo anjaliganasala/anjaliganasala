@@ -51,9 +51,7 @@
   </a>
 </p>
 
-
 - 🔹 **AI Chatbot using n8n + Telegram** – Auto-replies using ChatGPT and Google Sheets integration
-- 🔹 **Student Management System** – Java + MySQL-based CRUD project
 
 > More coming soon! Check pinned repos or visit the [Projects](#) section above ⬆️
 
