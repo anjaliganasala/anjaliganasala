@@ -16,8 +16,8 @@
 ## 🛠️ Tools & Technologies
 
 ### 👨‍💻 Languages & Frameworks
-- Java, JavaScript, HTML, CSS
-- ReactJS, Node.js, Express.js
+- Java, <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+- ReactJS , 
 - MongoDB, MySQL
 
 ### 🔧 Tools & Platforms
