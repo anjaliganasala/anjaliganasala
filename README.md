@@ -57,6 +57,14 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anjaliganasala19/)  
 - 📧 anjaliganasala3@gmail.com
+- <p align="left">
+  <a href="https://www.linkedin.com/in/anjaliganasala19/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anjaliganasala3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 Feel free to connect or reach out if you want to collaborate on exciting tech projects!
 
