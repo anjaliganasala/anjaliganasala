@@ -45,7 +45,12 @@
 
 ## 📁 Projects
 
-- 🔹 **Portfolio Website** – Showcasing skills, experience, and projects(https://anjaliganasala.my.canva.site/)
+- 🔹 **Portfolio Website** – Showcasing skills, experience, and projects
+<p align="left">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
+  </a>
+</p>
 - 🔹 **AI Chatbot using n8n + Telegram** – Auto-replies using ChatGPT and Google Sheets integration
 - 🔹 **Student Management System** – Java + MySQL-based CRUD project
 
