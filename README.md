@@ -46,7 +46,7 @@
 ## 📁 Projects
 
 - 🔹 **Portfolio Website** – Showcasing skills, experience, and projects <p align="left">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://anjaliganasala.my.canva.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
   </a>
 </p>
